@@ -11,4 +11,12 @@ He lives in Japan.
 
 [Twitter](https://mobile.twitter.com/newplicyvimeo2)
 
-[Twitterサブ垢(Sub dirt)(https://mobile.twitter.com/newplicyvimeo)
+[Twitter Second account](https://mobile.twitter.com/newplicyvimeo)
+
+[Instagram](https://www.instagram.com/kuragehime641/)
+
+Discord PlicyVimeo#9957
+
+TikTok(https://www.tiktok.com/@princesskaigetsu)
+
+Facebook(https://m.facebook.com/profile.php)
