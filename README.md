@@ -87,3 +87,9 @@ He lives in Japan.
 
 [Spotify account](https://open.spotify.com/user/6sypf2uehf86m8q3k6mxtqeke?si=s-NxUEBiSYyWRcgsQBaTMA&utm_source=copy-link)
 
+# 環境
+
+BNT-791W(2G)  (Andorid)
+
+PSVita1000
+
