@@ -20,8 +20,6 @@ He lives in Japan.
 
 [ティックトック](https://www.tiktok.com/@princesskaigetsu)
 
-[フェイスブック](https://m.facebook.com/profile.php)
-
 [タンブラー](https://kuragehimeplicy.tumblr.com/)
 
 # 動画共有サービス
@@ -58,8 +56,6 @@ He lives in Japan.
 [Discord] PlicyVimeo#9957
 
 [TikTok](https://www.tiktok.com/@princesskaigetsu)
-
-[Facebook](https://m.facebook.com/profile.php)
 
 [Tumblr](https://kuragehimeplicy.tumblr.com/)
 
