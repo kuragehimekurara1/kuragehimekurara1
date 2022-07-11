@@ -16,7 +16,7 @@ He lives in Japan.
 
 [インスタグラム](https://www.instagram.com/kuragehime641/)
 
-[ディスコード] PlicyVimeo#9957
+[ディスコード](https://discord.com/users/627076512482590731)
 
 [ティックトック](https://www.tiktok.com/@princesskaigetsu)
 
@@ -53,7 +53,7 @@ He lives in Japan.
 
 [Instagram](https://www.instagram.com/kuragehime641/)
 
-[Discord] PlicyVimeo#9957
+[Discord](https://discord.com/users/627076512482590731)
 
 [TikTok](https://www.tiktok.com/@princesskaigetsu)
 
