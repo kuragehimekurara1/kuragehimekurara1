@@ -1,4 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kuragehimekurara1?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/newplicyvimeo2?style=social">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/kuragehimekurara1/kuragehimekurara1?style=social">
+
 # 自分について 
 学生の有志翻訳家のKotatsuの日本語及び英語のサポート担当者。
 主にAndroidアプリやPSVitaのアプリやエミュレータなどを日本語に翻訳している。
