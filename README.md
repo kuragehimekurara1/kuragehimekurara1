@@ -26,6 +26,8 @@ He lives in Japan.
 
 [タンブラー](https://kuragehimeplicy.tumblr.com/)
 
+[Likee](https://likee.video/@914934854)
+
 # 動画共有サービス
 
 [ニコニコ](https://www.nicovideo.jp/user/95240708)
@@ -63,6 +65,8 @@ He lives in Japan.
 
 [Tumblr](https://kuragehimeplicy.tumblr.com/)
 
+[Likee](https://likee.video/@914934854)
+
 # Video sharing service
 
 [niconico](https://www.nicovideo.jp/user/95240708)
@@ -93,3 +97,20 @@ BNT-791W(2G)  (Andorid)
 
 PSVita1000
 
+Nintendo 2DS LL
+
+iPod Touch(第7世代)
+
+PSP3000
+
+# environment
+
+BNT-791W(2G) (Android)
+
+PSVita1000
+
+Nintendo 2DS LL
+
+iPod Touch (7th generation)
+
+PSP3000
