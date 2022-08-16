@@ -114,3 +114,11 @@ Nintendo 2DS LL
 iPod Touch (7th generation)
 
 PSP3000
+
+# 翻訳のリクエスト
+
+翻訳のリクエストがあればこちらの[Google フォーム](https://forms.gle/FfJxF5FEZctu2QJM7)にリクエストを送信してください
+
+# request translation
+
+If you have a translation request, please use this [Google Form](https://forms.gle/L9RmXUvgrkwou3F59)Please send your request to
