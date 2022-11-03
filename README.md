@@ -3,15 +3,11 @@
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/kuragehimekurara1/kuragehimekurara1?style=social">
 
 # 自分について 
-学生の有志翻訳家のKotatsuの日本語及び英語のサポート担当者。
-主にAndroidアプリやPSVitaのアプリやエミュレータなどを日本語に翻訳している。
-日本在住。
+様々なソフトやアプリを日本語や中国語や琉球諸語などに翻訳しています。
 
 
 # About myself
-Volunteer student translators and Kotatsu Japanese and English support staff
-Mainly translates Android apps, PS Vita apps, emulators, etc. into Japanese.
-He lives in Japan.
+We translate various software and applications into Japanese, Chinese, and Ryukyuan languages.
 
 # SNSアカウント
 [ツイッター](https://mobile.twitter.com/newplicyvimeo2)
@@ -31,16 +27,6 @@ He lives in Japan.
 # 動画共有サービス
 
 [ニコニコ](https://www.nicovideo.jp/user/95240708)
-
-[デイリーモーション](https://www.dailymotion.com/dm_f07e9dc5933e5396e37b203bef0bcf15)
-
-[FC2動画](https://video.fc2.com/account/63104161)
-
-[Veoh](https://www.veoh.com/users/kuragehimeniconico)
-
-[パンドラTV](http://jp.channel.pandora.tv/channel/video.ptv?ch_userid=kurage223&ref=ch&lot=mytop)
-
-[Topbuzzvideo](https://www.topbuzz.com/user/6741381479979828230/publish)
 
 [YouTube](https://www.youtube.com/channel/UC3eXbZnRGDSH1ADxm9_7iLA)
 
@@ -70,16 +56,6 @@ He lives in Japan.
 # Video sharing service
 
 [niconico](https://www.nicovideo.jp/user/95240708)
-
-[Dailymotion](https://www.dailymotion.com/dm_f07e9dc5933e5396e37b203bef0bcf15)
-
-[FC2 video](https://video.fc2.com/account/63104161)
-
-[Veoh](https://www.veoh.com/users/kuragehimeniconico)
-
-[PANDORA TV](http://jp.channel.pandora.tv/channel/video.ptv?ch_userid=kurage223&ref=ch&lot=mytop)
-
-[Topbuzzvideo](https://www.topbuzz.com/user/6741381479979828230/publish)
 
 [YouTube](https://www.youtube.com/channel/UC3eXbZnRGDSH1ADxm9_7iLA)
 
