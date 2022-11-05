@@ -20,9 +20,9 @@
 
 [Likee](https://likee.video/@914934854)
 
-# 動画共有サービス
+# 視頻分享服務
 
-[ニコニコ](https://www.nicovideo.jp/user/95240708)
+[尼科·尼科·杜加](https://www.nicovideo.jp/user/95240708)
 
 [YouTube](https://www.youtube.com/channel/UC3eXbZnRGDSH1ADxm9_7iLA)
 
@@ -32,7 +32,7 @@
 
 [Crowdin](https://crowdin.com/profile/kuragehimekurara1)
 
-[Spotifyアカウント](https://open.spotify.com/user/6sypf2uehf86m8q3k6mxtqeke?si=s-NxUEBiSYyWRcgsQBaTMA&utm_source=copy-link)
+[Spotify 帳戶](https://open.spotify.com/user/6sypf2uehf86m8q3k6mxtqeke?si=s-NxUEBiSYyWRcgsQBaTMA&utm_source=copy-link)
 
 # 環境
 
@@ -42,10 +42,10 @@ PSVita1000
 
 Nintendo 2DS LL
 
-iPod Touch(第7世代)
+iPod Touch（第 7 代）
 
 PSP3000
 
-# 翻訳のリクエスト
+# 請求翻譯
 
-翻訳のリクエストがあればこちらの[Google フォーム](https://forms.gle/FfJxF5FEZctu2QJM7)にリクエストを送信してください
+如果您有翻譯請求，請將其發送至此 [Google 表單](https://forms.gle/FfJxF5F​​EZctu2QJM7)
