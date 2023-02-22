@@ -14,7 +14,7 @@ We translate various software and applications into Japanese, Chinese, and Ryuky
 
 [Discord](https://discord.com/users/627076512482590731)
 
-[TikTok](https://www.tiktok.com/@princesskaigetsu)
+[TikTok](https://www.tiktok.com/@ponzu__daisuki)
 
 [Tumblr](https://kuragehimeplicy.tumblr.com/)
 
