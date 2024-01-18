@@ -11,15 +11,11 @@ I can speak Japanese and English.
 I like Suisei Hoshimachi and HoneyWorks.
 
 # SNS account
-[Twitter](https://mobile.twitter.com/PlicyVimeo)
+[X](https://mobile.twitter.com/PlicyVimeo)
 
 [Instagram](https://www.instagram.com/kuragehime641/)
 
 [Discord](https://discord.com/users/627076512482590731)
-
-[TikTok](https://www.tiktok.com/@kuragehimekurara1)
-
-[Likee](https://likee.video/@914934854)
 
 [Telegram](https://t.me/PlicyVimeo)
 
