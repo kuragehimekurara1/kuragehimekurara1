@@ -8,7 +8,9 @@
 I am a translator of Japanese and Uchinaguchi.
 live in japan
 I can speak Japanese and English.
-I like Suisei Hoshimachi and HoneyWorks.
+I like Suisei Hoshimachi and HoneyWorks and Japanese hip-hop.
+For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kuragehimekurara1), or DM on Telegram (PlicyVimeo)
+
 
 # SNS account
 [X](https://mobile.twitter.com/PlicyVimeo)
@@ -18,6 +20,10 @@ I like Suisei Hoshimachi and HoneyWorks.
 [Discord](https://discord.com/users/627076512482590731)
 
 [Telegram](https://t.me/PlicyVimeo)
+
+[Bluesky](https://bsky.app/proofile/kuragehimekurara1.bsky.social)
+
+[Threads](https://www.threads.net/@kuragehimekurara1)
 
 # Video sharing service
 
@@ -32,10 +38,6 @@ I like Suisei Hoshimachi and HoneyWorks.
 [Crowdin](https://crowdin.com/profile/kuragehimekurara1)
 
 [Spotify account](https://open.spotify.com/user/6sypf2uehf86m8q3k6mxtqeke?si=s-NxUEBiSYyWRcgsQBaTMA&utm_source=copy-link)
-
-[小説家になろう(Japanese only)](https://mypage.syosetu.com/2495659/)
-
-[野いちご(Japanese only)](https://www.no-ichigo.jp/member/n1332594)
 
 [SoundCloud](https://soundcloud.com/s2hqvehralyb)
 
