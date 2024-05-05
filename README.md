@@ -21,9 +21,9 @@ For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kur
 
 [Telegram](https://t.me/PlicyVimeo)
 
-[Bluesky](https://bsky.app/proofile/kuragehimekurara1.bsky.social)
+[Bluesky](https://bsky.app/profile/kuragehimekurara1.bsky.social)
 
-[Threads](https://www.threads.net/@kuragehimekurara1)
+[Threads](https://www.threads.net/@kuragehime641)
 
 # Video sharing service
 
