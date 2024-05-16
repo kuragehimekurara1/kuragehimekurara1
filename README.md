@@ -13,7 +13,7 @@ For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kur
 
 
 # SNS account
-[X](https://mobile.twitter.com/PlicyVimeo)
+[X](https://x.com/PlicyVimeo)
 
 [Instagram](https://www.instagram.com/kuragehime641/)
 
@@ -24,6 +24,8 @@ For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kur
 [Bluesky](https://bsky.app/profile/kuragehimekurara1.bsky.social)
 
 [Threads](https://www.threads.net/@kuragehime641)
+
+[TikTok](https://www.tiktok.com/@kuragehimekurara1)
 
 # Video sharing service
 
