@@ -1,5 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6sypf2uehf86m8q3k6mxtqeke&cover_image=true&theme=default&show_offline=false&background_color=ff8800&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6sypf2uehf86m8q3k6mxtqeke&redirect=true)
-
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kuragehimekurara1?style=social">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/plicyvimeo?style=social">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC3eXbZnRGDSH1ADxm9_7iLA">
@@ -26,6 +24,14 @@ For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kur
 [Threads](https://www.threads.net/@kuragehime641)
 
 [TikTok](https://www.tiktok.com/@kuragehimekurara1)
+
+[Lemon8](https://www.lemon8-app.com/kuragehimekurara1?region=jp)
+
+[Rate your Muasic(RYM)](https://rateyourmusic.com/~kuragehimekurara1)
+
+[Genius](https://genius.com/kuragehime)
+
+[Discogs](https://www.discogs.com/ja/user/kuragehime))
 
 # Video sharing service
 
