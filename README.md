@@ -25,11 +25,13 @@ For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kur
 
 [TikTok](https://www.tiktok.com/@kuragehimekurara1)
 
-[Lemon8](https://www.lemon8-app.com/kuragehimekurara1?region=jp)
-
 [Rate your Muasic(RYM)](https://rateyourmusic.com/~kuragehimekurara1)
 
 [Genius](https://genius.com/kuragehime)
+
+[Lyrics Translate](https://lyricstranslate.com/en/translator/kuragehime)
+
+[MusicBrainz](https://musicbrainz.org/user/%E6%B5%B7%E6%9C%88%E5%A7%AB)
 
 [Discogs](https://www.discogs.com/ja/user/kuragehime))
 
