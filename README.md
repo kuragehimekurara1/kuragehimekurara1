@@ -6,7 +6,7 @@
 I am a translator of Japanese and Uchinaguchi.
 live in japan
 I can speak Japanese and English.
-I like Suisei Hoshimachi and HoneyWorks and Japanese hip-hop.
+I like Jingi Odagiri,HoneyWorks,Strawberry Prince,KnightA,AZNIG,huiche and Japanese hip-hop.
 For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kuragehimekurara1), or DM on Telegram (PlicyVimeo)
 
 
@@ -33,7 +33,7 @@ For translation requests, please email, DM on X (PlicyVimeo), DM on Discord (kur
 
 [MusicBrainz](https://musicbrainz.org/user/%E6%B5%B7%E6%9C%88%E5%A7%AB)
 
-[Discogs](https://www.discogs.com/ja/user/kuragehime))
+[Discogs](https://www.discogs.com/ja/user/kuragehime)
 
 # Video sharing service
 
