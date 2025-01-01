@@ -1,5 +1,5 @@
- [!CAUTION]
-**Due to various circumstances, we are currently experiencing delays in checking GitHub, discord, and email.
+> [!CAUTION]
+> **Due to various circumstances, we are currently experiencing delays in checking GitHub, discord, and email.
 Additionally, due to various circumstances, we are currently unable to work on translating or updating translations.
 It is unclear when we will be able to resume operations. Sorry.**
 
