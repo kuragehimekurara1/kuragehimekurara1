@@ -10,8 +10,11 @@ I am a translator of Japanese and Uchinaguchi.
 live in japan
 I have a lover
 I can speak Japanese and English.
-I like BIRTH,HoneyWorks,NEXT-STYLE,Touhou project,AZNIG,huiche and Japanese hip-hop.
-Please contact me by email (kuragehime641@yahoo.co.jp) or Discord (kuragehimekurara1)
+I like BIRTH,HoneyWorks,NEXT-STYLE,
+Touhou project,AZNIG,huiche and 
+Japanese hip-hop.
+Please contact me by email (kuragehime641@yahoo.co.jp) or 
+Discord (kuragehimekurara1)
 
 # SNS
 
