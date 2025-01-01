@@ -4,7 +4,6 @@ Additionally, due to various circumstances, we are currently unable to work on t
 It is unclear when we will be able to resume operations. Sorry.**
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kuragehimekurara1?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/plicyvimeo?style=social">
 
 # About myself
 I am a translator of Japanese and Uchinaguchi.
