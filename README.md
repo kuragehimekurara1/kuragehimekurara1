@@ -1,20 +1,12 @@
-> [!CAUTION]
-> **Due to various circumstances, we are currently experiencing delays in checking GitHub, discord, and email.
-Additionally, due to various circumstances, we are currently unable to work on translating or updating translations.
-It is unclear when we will be able to resume operations. Sorry.**
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/kuragehimekurara1?style=social">
-
 # About myself
 I am a translator of Japanese and Uchinaguchi.
 live in japan
-I have a lover
 I can speak Japanese and English.
-I like BIRTH,HoneyWorks,NEXT-STYLE,
+I like BIRTH,HoneyWorks,NEXT-STYLE,Tigh-Z, MABOROSHI,
 Touhou project,AZNIG,huiche and 
 Japanese hip-hop.
 Please contact me by email (kuragehime641@yahoo.co.jp) or 
-Discord (kuragehimekurara1)
+Discord (kuragehimekurara1) or Telegram (@PlicyVimeo)
 
 # SNS
 
